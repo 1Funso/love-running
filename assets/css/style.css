@@ -303,6 +303,7 @@ footer {
     color: #f16c6b;
 }
 
+
 /* Media queries */
 
 /* For larger to medium screens size from 1200px wide and down */
@@ -387,4 +388,5 @@ footer {
     #photos {
         column-count: 2;
     }
+}
 }
